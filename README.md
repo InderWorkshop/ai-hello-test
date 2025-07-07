@@ -1,21 +1,33 @@
 # AI Hello Test 👋
 
 This is my first step into building AI-powered tools using HTML and GitHub Pages.  
-Deployed directly from GitHub — this project is my test run for future tools I plan to build.
-
-## 🚀 What This Does
-
-This site currently contains:
-- A basic HTML landing page (`index.html`)
-- Auto-deployed through GitHub Pages
-- Will evolve into a useful AI utility
-
-## 📌 Goals
-
-- Learn how to host tools for free
-- Use GitHub as my developer portfolio
-- Build mini web-based AI tools
+🚀 Deployed live at: [Click here to visit site](https://inderworkshop.github.io/ai-hello-test/)
 
 ---
 
-⚙️ Stay tuned as I improve this and launch more projects!
+## 🔧 What This Project Does
+
+- A basic HTML landing page (`index.html`)
+- Hosted freely with GitHub Pages
+- Will evolve into a useful AI tool or project
+
+## 🔜 What’s Coming Next
+
+- Integrate with a ChatGPT API / tool
+- Add forms or dynamic behavior
+- Learn more about web deployment
+
+---
+
+## 📁 Tech Stack
+
+- HTML
+- GitHub Pages
+- Markdown for README
+
+---
+
+## 🤝 Let's Connect
+
+Want to collaborate or ask questions?  
+Feel free to follow me on GitHub or raise an issue in this repo!
